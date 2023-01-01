@@ -15,7 +15,9 @@ SovietChan is a free to use Toon Shader. This provides the follwing.
 
     Hue Shift with Auto RGB change.
     
-    
+   
+   Remember to Extract the folder Before adding to your Content Browser
+   
    Due to the file being Too Large I can not add the File But here is a Download Link.
    
    Download Link: https://drive.google.com/file/d/1W1VkALlWF2SGx24goNLgNbttK_qvkScD/view?usp=sharing    
