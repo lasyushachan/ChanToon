@@ -24,7 +24,7 @@ SovietChan is a free to use Toon Shader. This provides the follwing.
    
    Youtube Tutorial Link: https://www.youtube.com/watch?v=Zz6bqTrsKrk&t=149s&ab_channel=SovietChan
 
-![SCKal](https://user-images.githubusercontent.com/76999177/210185574-ed9f8ced-3ae4-4bb1-ae89-13610e8c1964.png)
+![SCKal](https://cdn1.epicgames.com/ue/product/Screenshot/charshowcase-1920x1080-ab2c52886ca6417da915842f879ca129.png)
 
 ![SCMani](https://user-images.githubusercontent.com/76999177/210185582-b09043cb-3f86-429f-abda-d25aabd44ee7.png)
 
